@@ -5,4 +5,4 @@
 
 ---
 
-- [トップページへ戻る](README.md)
+- [top](README.md)
