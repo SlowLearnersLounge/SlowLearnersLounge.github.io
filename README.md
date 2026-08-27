@@ -1,4 +1,4 @@
 
-![top](images/slowlearnertop.png)
+![top](images/top.gif)
 
 Welcome!
